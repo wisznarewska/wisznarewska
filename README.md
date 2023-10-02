@@ -1,15 +1,15 @@
 ### Cześć 👋
-## O mnie 
+## O mnie 👩‍💻
 
 
 Moim celem jest rozpoczęcie kariery jako tester oprogramowania, poprzez połączenie mojego dotychczasowego doświadczenia zawodowego z wiedzą zdobytą podczas kursu, którą systematycznie rozwijam. Jestem emerytowaną specjalistką ds. płac 🙂  Przez ostatnie lata, miałam okazję uczestniczyć w testowaniu produktów wykorzystywanych w branży HR. To doświadczenie pomogło mi odkryć, że testowanie jest tym, co chcę robić zawodowo. Testowałam produkty firm zewnętrznych z usługami SAP, brałam udział w testowaniu platorm benefitowych, a także we wdrażaniu nowych funkcjonalności w SAP HR. 
 
-## Kontakt 📧 
+## Kontakt 📫
 - Email: wisznarewska.katarzyna@gmail.com
 - LinkedIn: www.linkedin.com/in/katarzyna-wisznarewska
 
 
-### Umiejętności 
+### Umiejętności 🧰
 
 - Testowanie manualne
 - Tworzenie przypadków testowych
@@ -21,7 +21,7 @@ Moim celem jest rozpoczęcie kariery jako tester oprogramowania, poprzez połąc
 - JIRA DevTools PyCharm Pytest
 
 
-## Kursy
+## Kursy 🏆
 ### 4_testers | 2023
 
 20 tygodniowy kurs dla testerów oprogramowania,
@@ -36,10 +36,10 @@ uwzględniający zagadnienia takie jak:
 - Automatyzacja testów API, UI, CI (Selenium, Postman)
 - Zarządzanie testami
 
-## Pracuję nad:
+## Pracuję nad✍️: 
 - Rozwijam swoje umiejętności tworząć scenariusze i przypadki testowe dla wybranych stron internetowych.
   
-## Uczę się i rozwijam:
+## Uczę się i rozwijam💡:
 - SQL 🔝
 - ISTQB 🔝
 - API | Postman 🔝
