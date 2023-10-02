@@ -38,6 +38,8 @@ uwzględniający zagadnienia takie jak:
 
 ## Pracuję nad✍️: 
 - Rozwijam swoje umiejętności tworząć scenariusze i przypadki testowe dla wybranych stron internetowych.
+
+[🔗Moje projekty](https://github.com/wisznarewska/Testowanie)
   
 ## Uczę się i rozwijam💡:
 - SQL 🔝
