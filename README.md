@@ -2,7 +2,7 @@
 ## O mnie 👩‍💻
 
 
-Moim celem jest rozpoczęcie kariery jako tester oprogramowania, poprzez połączenie mojego dotychczasowego doświadczenia zawodowego z wiedzą zdobytą podczas kursu, którą systematycznie rozwijam. Jestem emerytowaną specjalistką ds. płac 🙂  Przez ostatnie lata, miałam okazję uczestniczyć w testowaniu produktów wykorzystywanych w branży HR. To doświadczenie pomogło mi odkryć, że testowanie jest tym, co chcę robić zawodowo. Testowałam produkty firm zewnętrznych z usługami SAP, brałam udział w testowaniu platorm benefitowych, a także we wdrażaniu nowych funkcjonalności w SAP HR. 
+Moim celem jest rozpoczęcie kariery jako tester oprogramowania, poprzez połączenie mojego dotychczasowego doświadczenia zawodowego z wiedzą zdobytą podczas kursu, którą systematycznie rozwijam. Jestem emerytowaną specjalistką ds. płac 🙂  Przez ostatnie lata, miałam okazję uczestniczyć w testowaniu produktów wykorzystywanych w branży HR. To doświadczenie pomogło mi odkryć, że testowanie jest tym, co chcę robić zawodowo. 
 
 ## Kontakt 📫
 - Email: wisznarewska.katarzyna@gmail.com
